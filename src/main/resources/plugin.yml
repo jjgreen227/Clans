@@ -1,0 +1,5 @@
+name: Clans
+main: me.babyboy1.clans.Clans
+version: DEV
+author: [babyboy]
+commands:
